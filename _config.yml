@@ -1,4 +1,5 @@
-title: Streamdata Gallery Database Schema
+title: Streamdata API Gallery - Database Schema
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: database-schema.streamdata.gallery
 tag: Database Schema
 markdown: kramdown
